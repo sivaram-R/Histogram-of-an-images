@@ -23,8 +23,8 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-# Developed By: SIVARAM R
-# Register Number: 212222100050
+### Developed By: SIVARAM R
+### Register Number: 212222100050
 <table>
   <tr>
     <td width=50%>
